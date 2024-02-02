@@ -5,6 +5,7 @@
         public override bool CanTeleport()
         {
             throw new System.NotImplementedException();
+            //
         }
     }
 }
